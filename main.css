@@ -1,3 +1,9 @@
 html {
     background-color: #272727;
 }
+
+.sun {
+    top: 150px;
+    left: 400px;
+    background-image: linear-gradient(#D61C4E, #FEF9A7);
+}
